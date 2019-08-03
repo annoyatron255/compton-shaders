@@ -4,7 +4,7 @@ A collection of GLSL shaders for use with compton
 ## Usage
 For use with compton under the glx rendering backend
 
-`compton --backend glx --glx-fshader-win "$(cat shader.glsl)"`
+`compton --backend glx --force-win-blend --glx-fshader-win "$(cat shader.glsl)"`
 
 ## Shader Descriptions
 
