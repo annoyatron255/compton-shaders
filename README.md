@@ -8,7 +8,7 @@ For use with compton under the glx rendering backend
 
 ## Shader Descriptions
 
-`compton-fake-transparency-fshader-win.glsl` will replace the color #010101 in any window that compton does not "invert" with the color #000000E3
+`compton-fake-transparency-fshader-win.glsl` will replace the color #000100 in any window that compton does not "invert" with the color #000000E3
 
 `crt-aperture.glsl` applies a aperture grill style crt shader to windows
 
